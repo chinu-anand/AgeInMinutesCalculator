@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age in Minutes</string>
+    <string name="calculate">Select Your DOB</string>
+    <string name="calculate_your">Calculate Your</string>
+    <string name="age">Age</string>
+    <string name="in_minutes">In Minutes</string>
+    <string name="your_age_in_minutes">Your Age in Minutes -</string>
+    <string name="selected_date">Your Date Of Birth -</string>
+</resources>
